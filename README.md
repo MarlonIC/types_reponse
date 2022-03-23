@@ -1,3 +1,5 @@
+### Referencia: https://developer.twitter.com/en/support/twitter-api/error-troubleshooting#http-status-codes
+
 ##### 200 - Ok (Solicitud exitosa)
 | CODE | NOMBRE               | MENSAJE (ES-US)    |                   DESCRIPCIÓN                               |
 | ---- |:--------------------|:------------------   |:------------------------------------------------------------|
